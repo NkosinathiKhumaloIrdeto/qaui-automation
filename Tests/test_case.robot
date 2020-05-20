@@ -14,7 +14,7 @@ Ingest Meta & Sources
     ingest.Update XML - Genref & UID
     ingest.Update XML - start & end date
     ingest.Ingest XML to IXS
-    log to console  Wait for meta to be ingested into MM
+    log to console  Wait for meta to be ingested into MM for 1min
     sleep   60s
 
 Drop sources
