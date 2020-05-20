@@ -39,6 +39,6 @@ ${Updated_genref}=  323423
 
 ${sleep_timer_1}=  2s
 ${sleep_timer_2}=  6s
-${sleep_timer_3}=  35s
+${sleep_timer_3}=  15s
 
 ${log_path_file}=  ../ingestlog.txt  #C:\\dev\\testing\\untitled\\logs\\log.txt
