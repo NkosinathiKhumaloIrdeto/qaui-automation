@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaservice scheduleplanmonth="JUN-2016" type="Catch Up" vodtype="SVOD">
+		<program express="N" genref="352211" notification="N" priority="5" region="CRSA" uid="286026AV">
+			<metadata crud="U">
+				<pgrating>13</pgrating>
+				<linearchannel>M-Net</linearchannel>
+				<linearservice>
+					<primary>HDT</primary>
+					<secondary>MW4</secondary>
+				</linearservice>
+				<lineartag />
+				<channelsting />
+				<hdsdpvrtitle>IrdetoSVOD</hdsdpvrtitle>
+				<serid />
+				<seriestitle />
+
+				<totalseasonepisodes>0</totalseasonepisodes>
+				<seasonid />
+				<seasonnumber />
+				<title>IrdetoSVOD</title>
+				<runtimemins>01:28:10</runtimemins>
+				<epgcontentid />
+				<yearofrelease>2013</yearofrelease>
+				<episodenumber />
+				<primarygenre>Movies|Action</primarygenre>
+				<secondarygenres>Movies|Drama</secondarygenres>
+				<actors>Cuba Gooding Jnr, Emmanuelle Vaugier, Evert Mcqueen</actors>
+
+
+
+
+				<director>Brian Trenchard Smith</director>
+				<synopsis>
+					<series />
+					<season />
+					<title>Synopsis for IrdetoSVOD</title>
+				</synopsis>
+				<suppliercountry>ZAF</suppliercountry>
+				<showtype>Movie</showtype>
+				<studiocode>STER--C-0590</studiocode>
+				<studioname>STER KINEKOR (PTY) LTD</studioname>
+				<theme>Movies</theme>
+				<advisories>V</advisories>
+				<linearpremierdatetime>21-12-2016 09:25:00</linearpremierdatetime>
+				<datetimeschedulecreated>21-12-2016 13:01:13</datetimeschedulecreated>
+				<media>
+					<audiotype>5.1</audiotype>
+					<format>HD - HI</format>
+					<aspectratio>16:9</aspectratio>
+					<language>English</language>
+				</media>
+			</metadata>
+			<schedule crud="I" scheduleid="31035395">
+				<delivery platform="OTT">
+					<mediadevice code="EXP">
+						<compatibility type="DOWNLOAD">
+							<countries>
+								<country id="BWA,LSO,MOZ,MWI,NAM,SWZ,ZAF,ZMB,ZWE">
+									<bouquet id="PREM">
+										<subbouquet />
+										<startdate>19-05-2020 22:01:52</startdate>
+										<enddate>27-05-2020 22:01:52</enddate>
+									</bouquet>
+								</country>
+							</countries>
+						</compatibility>
+					</mediadevice>
+					<mediadevice code="IPHONE,WIN">
+						<compatibility type="DOWNLOAD,STREAMING">
+							<countries>
+								<country id="BWA,LSO,MOZ,MWI,NAM,SWZ,ZAF,ZMB,ZWE">
+									<bouquet id="COMP,EXTR,FAMILY,PREM">
+										<subbouquet />
+										<startdate>19-05-2020 22:01:52</startdate>
+										<enddate>27-05-2020 22:01:52</enddate>
+									</bouquet>
+								</country>
+							</countries>
+						</compatibility>
+					</mediadevice>
+				</delivery>
+				<delivery platform="SAT">
+					<mediadevice code="EXP,HDP,SDP">
+						<compatibility type="PUSH">
+							<countries>
+								<country id="BWA,LSO,MOZ,MWI,NAM,SWZ,ZAF,ZMB,ZWE">
+									<bouquet id="PREM,COMP,EXTR,FAMILY">
+										<subbouquet />
+										<startdate>19-05-2020 22:01:52</startdate>
+										<enddate>27-05-2020 22:01:52</enddate>
+									</bouquet>
+								</country>
+							</countries>
+						</compatibility>
+					</mediadevice>
+				</delivery>
+			</schedule>
+		</program>
+	</mediaservice>
