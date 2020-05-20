@@ -1,0 +1,8 @@
+*.png
+*.log
+*.html
+*.xml
+*.exe
+logs/
+Result/
+Results/

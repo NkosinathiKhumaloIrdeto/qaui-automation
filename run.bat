@@ -1,0 +1,1 @@
+robot -d Results Tests\test_case.robot
