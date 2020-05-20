@@ -27,7 +27,7 @@ ${ixs_hevc_hd_video}=
 ${ixs_pull_sd_video}=
 ${ixs_pull_hd_video}=
 
-${XmlFile}=  ${CURDIR}\\ent.xml
+${XmlFile}=  ${CURDIR}/ent.xml 
 #${CURDIR}/../Resources/ent.xml
 ${videofrom}=  /mnt/Encoder_Area/Ardome/Robot/video.mxf
 ${videoto}=  /mnt/Encoder_Area/Ardome/AUTOMATION_SYSTEM/
@@ -41,4 +41,4 @@ ${sleep_timer_1}=  2s
 ${sleep_timer_2}=  6s
 ${sleep_timer_3}=  35s
 
-${log_path_file}= /root/automation/ingestlog.txt  #C:\\dev\\testing\\untitled\\logs\\log.txt
+${log_path_file}=  /root/automation/ingestlog.txt  #C:\\dev\\testing\\untitled\\logs\\log.txt
