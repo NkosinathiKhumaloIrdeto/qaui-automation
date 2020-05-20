@@ -41,4 +41,4 @@ ${sleep_timer_1}=  2s
 ${sleep_timer_2}=  6s
 ${sleep_timer_3}=  35s
 
-${log_path_file}=  /root/automation/ingestlog.txt  #C:\\dev\\testing\\untitled\\logs\\log.txt
+${log_path_file}=  ../ingestlog.txt  #C:\\dev\\testing\\untitled\\logs\\log.txt
